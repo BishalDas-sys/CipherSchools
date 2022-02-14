@@ -1,6 +1,6 @@
 # MY NOTES  
 
-My notes is a simple note taking app in which user can store importent notes related to work or studies.
+Recipe Application with  is a simple note taking type app in which user can store recipe, Edit them and Delete them as well. This App has a User Authenticcation as well
 
 🛠 **Tech Stack**
 

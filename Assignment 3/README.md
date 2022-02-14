@@ -1,29 +1,35 @@
-# React-Contact-Manager-CRUD
-React JS Contact Manager CRUD Application
+# MY NOTES  
 
-# Steps for Client: 
+My notes is a simple note taking app in which user can store importent notes related to work or studies.
 
-	1. Download the source code
-	2. inside application -> type "npm install"
-	3. to start the application -> "npm start"
-	4. open browser : http://localhost:3000
-	
-# Steps for Server: 	
+🛠 **Tech Stack**
 
-	1. inside server folder -> type "npm install"
-	2. to start the server -> "npm start"
-	3. open browser : http://localhost:9000
-	
-	
-# Useful links for API's
+- 💻 JavaScript ES6
+- 🌐 ReactJS | ReduxJS
+- 🔧 Git
+- ➕ [Bootstrap](https://getbootstrap.com/), [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start), [redux](https://redux.js.org/), [react-redux](https://react-redux.js.org/), [redux-thunk](https://www.npmjs.com/package/redux-thunk), [axios](https://www.npmjs.com/package/axios), [sweetalert](https://www.npmjs.com/package/sweetalert), [validator](https://www.npmjs.com/package/validator)
 
-1. GET all contacts : GET -> http://localhost:9000/contacts
+### Demo
 
-2. Get a Single contact : GET -> http://localhost:9000/contacts/:id
+https://user-images.githubusercontent.com/91862529/143231967-774047c9-c491-4e4c-990c-134dd14d0170.mp4
 
-3. Create a contact : POST -> http://localhost:9000/contacts/
+### Features
+* Authentication
+    * User must be authenticated in order to use the application and must be authorized to access his account
+    * JWT is used for user authentication
+ 
+* User Module
+    *  User must register and login to perform crud operations on notes
+    *  Form validations are done without using third party packages
 
-4. Update a contact : PUT -> http://localhost:9000/contacts/:id
+* Note Module
+    * User can create note by entering the note details in note form.
+    * Edit button is provied for the user to modify the notes
+    * With Delete button, user can remove the note from the list
+    * Form validations are done without using third party packages
 
-5. DELETE a contact : DELETE -> http://localhost:9000/contacts/:id
-	
+### Contibutor
+
+![Photo-cropped](https://user-images.githubusercontent.com/91862529/142796666-f35e680c-1c33-4a1c-afe4-48b1f1d2e681.jpg)
+
+   Ashwin Kumar C

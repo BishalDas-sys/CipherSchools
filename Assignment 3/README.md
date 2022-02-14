@@ -1,6 +1,6 @@
 # Recipe Application
 
-Recipe Application with  is a simple note taking type app in which user can store recipe, Edit them and Delete them as well. This App has a User Authenticcation as well
+Recipe Application with  is a simple note taking type app in which user can store recipe, Edit them and Delete them as well. This App has a User Authentication as well
 
 🛠 **Tech Stack**
 

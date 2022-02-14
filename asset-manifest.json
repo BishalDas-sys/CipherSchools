@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/CipherSchools/static/css/main.f5b74edd.chunk.css",
-    "main.js": "/CipherSchools/static/js/main.47ea606a.chunk.js",
-    "main.js.map": "/CipherSchools/static/js/main.47ea606a.chunk.js.map",
-    "runtime-main.js": "/CipherSchools/static/js/runtime-main.a47d14e9.js",
-    "runtime-main.js.map": "/CipherSchools/static/js/runtime-main.a47d14e9.js.map",
-    "static/js/2.84e277a6.chunk.js": "/CipherSchools/static/js/2.84e277a6.chunk.js",
-    "static/js/2.84e277a6.chunk.js.map": "/CipherSchools/static/js/2.84e277a6.chunk.js.map",
-    "index.html": "/CipherSchools/index.html",
-    "precache-manifest.bd21f7873100bc6cd3dcd402ec8399ac.js": "/CipherSchools/precache-manifest.bd21f7873100bc6cd3dcd402ec8399ac.js",
-    "service-worker.js": "/CipherSchools/service-worker.js",
-    "static/css/main.f5b74edd.chunk.css.map": "/CipherSchools/static/css/main.f5b74edd.chunk.css.map",
-    "static/js/2.84e277a6.chunk.js.LICENSE.txt": "/CipherSchools/static/js/2.84e277a6.chunk.js.LICENSE.txt"
+    "main.js": "/BishalDas-sys/Recipe-Application/static/js/main.007d2c93.chunk.js",
+    "main.js.map": "/BishalDas-sys/Recipe-Application/static/js/main.007d2c93.chunk.js.map",
+    "runtime-main.js": "/BishalDas-sys/Recipe-Application/static/js/runtime-main.77a4584f.js",
+    "runtime-main.js.map": "/BishalDas-sys/Recipe-Application/static/js/runtime-main.77a4584f.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/BishalDas-sys/Recipe-Application/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.60f496c6.chunk.js": "/BishalDas-sys/Recipe-Application/static/js/2.60f496c6.chunk.js",
+    "static/js/2.60f496c6.chunk.js.map": "/BishalDas-sys/Recipe-Application/static/js/2.60f496c6.chunk.js.map",
+    "index.html": "/BishalDas-sys/Recipe-Application/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/BishalDas-sys/Recipe-Application/static/css/2.0a9ec390.chunk.css.map",
+    "static/js/2.60f496c6.chunk.js.LICENSE.txt": "/BishalDas-sys/Recipe-Application/static/js/2.60f496c6.chunk.js.LICENSE.txt",
+    "static/media/notes.f77cc135.svg": "/BishalDas-sys/Recipe-Application/static/media/notes.f77cc135.svg",
+    "static/media/spinner.265e52bf.gif": "/BishalDas-sys/Recipe-Application/static/media/spinner.265e52bf.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.a47d14e9.js",
-    "static/js/2.84e277a6.chunk.js",
-    "static/css/main.f5b74edd.chunk.css",
-    "static/js/main.47ea606a.chunk.js"
+    "static/js/runtime-main.77a4584f.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.60f496c6.chunk.js",
+    "static/js/main.007d2c93.chunk.js"
   ]
 }
